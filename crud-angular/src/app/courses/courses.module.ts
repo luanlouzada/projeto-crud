@@ -13,5 +13,6 @@ import { CoursesComponent } from './courses/courses.component';
     CommonModule,
     CoursesRoutingModule,
     AppMaterialModule
+  ]
 })
 export class CoursesModule { }
