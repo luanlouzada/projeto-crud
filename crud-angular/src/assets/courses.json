@@ -1,13 +1,13 @@
 
   [{
     "id": "1",
-    "category": "AC",
-    "name": "Acre"
+    "category": "front-end",
+    "name": "Angular"
   },
        {
     "id": "2",
-    "category": "AL",
-    "name": "Alagoas"
+    "category": "back-end",
+    "name": "Java"
   },
        {
     "id": "3",
